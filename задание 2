@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<order id="123">
+	<customer>Вася</customer>
+	<total>12000</total>
+	<items>
+		<item>Сушилка</item>
+		<item>Мочилка</item>
+	</items>
+</order>
